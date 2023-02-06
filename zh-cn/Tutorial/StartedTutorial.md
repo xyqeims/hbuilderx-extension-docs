@@ -133,7 +133,7 @@ HBuilderX有强大的语法分析引擎，可以准确的跳转定义位置。
 
 <img src="/static/snapshots/started_tutorial/add-to-favorites.gif" style="zoom: 90%;border:1px solid #eee;border-radius: 5px;" />
 
-`ctrl+p`也是标签卡管理的重要工具，屏幕窄看不清左右打开的标签时，可以用它来浏览所有以打开的标签
+`ctrl+p`也是标签卡管理的重要工具，屏幕窄看不清左右打开的标签时，可以用它来浏览所有已打开的标签
 
 
 
